@@ -5,3 +5,4 @@ Flask-Session
 Flask-SQLAlchemy
 SQLAlchemy
 rsa
+gunicorn
